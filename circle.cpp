@@ -15,4 +15,5 @@ cout<<" ::		    ::"<<endl;
 cout<<"  ::		   ::"<<endl;
 cout<<"   :::		 :::"<<endl;
 cout<<"      ::::::::::::"<<endl;
+cout<<" SAD   "<<endl;
 }
